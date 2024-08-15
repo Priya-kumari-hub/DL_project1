@@ -1,0 +1,1 @@
+This project implements a deep learning model for handwritten digit classification using the MNIST dataset. The model is built using Keras, a high-level neural networks API, and TensorFlow, which serves as the backend. The goal is to accurately classify images of handwritten digits (0-9) into their respective categories.
